@@ -1,7 +1,7 @@
 /vendor
 /dist
 
-/terraform-provider-uptimerobot
+/terraform-provider-uptimerobot*
 /.terraform
 
 *.tfstate*
